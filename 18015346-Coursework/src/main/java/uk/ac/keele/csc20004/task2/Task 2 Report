@@ -1,0 +1,24 @@
+/* **********************
+ * CSC-20004 COURSEWORK *
+ * 2020/21 First sit    *
+ * **********************/
+package uk.ac.keele.csc20004.task2
+
+/**
+ * TASK 2 REPORT
+ * Use this javadoc to submit your report.
+ * Please address the followin points:
+ * 
+ * 1) What are the potential issues due to concurrent access to the shelves and queue? How did you handle them?
+ * 
+ * 
+ * 2) How did you make sure that your solution is not causing deadlock/livelock?
+ * 
+ * 
+ * 3) Discuss whether starvation may occur, and where; and what is your approach to deal with it
+ * 
+ * 
+ * @author 18015346
+ */
+
+{}       

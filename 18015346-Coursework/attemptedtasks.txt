@@ -1,0 +1,10 @@
+/* **********************
+ * CSC-20004 COURSEWORK *
+ * 2020/21 First sit    *
+ * **********************/
+
+ATTEMPTED TASKS 
+(please select all that apply)
+
+[ ] task1
+[ ] task2
